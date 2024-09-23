@@ -1,6 +1,6 @@
 body{
     /* background:rgba(13,18,16,98%) ; */
-    background-image: url("/img/bgg.png");
+    background-image: url("../img/bgg.png");
     background-size: contain;
     font-family: Hind Siliguri, sans-serif !important;
 }
